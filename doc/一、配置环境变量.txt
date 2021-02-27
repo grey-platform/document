@@ -1,11 +1,11 @@
 一、添加tools目录到环境变量Path中。
-    如：E:\grey_git\tools （注意，最后没有斜划线哈！）
-    或直接双击 E:\grey_git\tools 目录下的"添加环境变量.bat"文件。
+    如：E:\grey\tools （注意，最后没有斜划线哈！）
+    或直接双击 E:\grey\tools 目录下的"添加环境变量.bat"文件。(在win10系统下可能不行，所以最好还是自己手动设置比较好)
     就可以把tools目录添加到系统Path中了。
     
-二、添加grey的win32版本到环境变量Path中。
-    如：E:\grey_git\grey\win32 （注意，最后没有斜划线哈！）
-    或直接双击 E:\grey_git\grey\win32 目录下的"添加环境变量.bat"文件。
+二、添加grey的windows版本到环境变量Path中。
+    如：E:\grey\grey\win32 （注意，最后没有斜划线哈！）
+    或直接双击 E:\grey\grey\win32 目录下的"添加环境变量.bat"文件。(在win10系统下可能不行，所以最好还是自己手动设置比较好)
     这样就可以把grey的win32版本添加到环境变量Path中了。
     
 注意：在运行bat文件时可能要用管理员身份来运行哈，要不然没有权限白玩。

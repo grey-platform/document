@@ -1,0 +1,22 @@
+欢迎你关注并试图使用，测试grey开发引擎。
+grey可以让你非常方便地把你的想法在PC Android IOS 甚至是H5上面实现，展示出来。
+
+第一步，我们从项目中先把各个仓库从github上面拉取下来吧。然后我来介绍一下各个代码仓库的作用。
+我们的项目为grey-platform。github地址是https://github.com/grey-platform
+包含 gdk grey tools example 和document仓库。 每个仓库都是具有一定的作用的，你最好是全部拉取下来。
+
+按照我自己的路径，在e盘下面建立一个项目目录，名字为grey。 在grey目录里面分别建立gdk grey tools example和document目录。
+并把各代码仓库全部拉取到相应的目录下面。
+
+下面我来介绍一下各代码库的作用。
+gdk目录： 所有功能头文件目录。 当然这个目录也是你的代码需要include的目录。
+          所有库文件目录，其中vs调试库目录在 E:\grey\gdk\debug 里面。可以用vs调试你的应用。
+                          其中 cplus运行库目录在 E:\grey\gdk\lib 里面。 这是生成dde可执行文件所必须的连接库。
+                          
+tools目录：用于存放cplus编译，链接等功能的程序，具体每个工具的作用在后面文档里会具体说明。
+
+grey目录：各平台的grey执行库目录，具体如何在各平台上面调试，运行你写的程序， 后面有详细文档介绍。
+
+example目录：放置了一些程序实例，用于新开发者了解整个grey的开发和运行过程。 后面有详细文件介绍最终如何生成epk文件。
+
+document目录: 放置文档的目录。

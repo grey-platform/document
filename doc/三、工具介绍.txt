@@ -6,6 +6,7 @@ toolsÄ¿Â¼ÏÂÓÐÒ»¶ÑÓÐÓÃµÄ¹¤¾ß£¬ÓÐÐ©ÊÇ±àÒëÄãµÄ´úÂë±ØÐëÒªÓÃµÄ£¬ÓÐÐ©ÊÇÖÆ×÷Ò»Ð©×ÊÔ´ÐèÒ
 Îå¡¢asmpack.exe       cplus°üÎÄ¼þ»ã±àÆ÷¡£ÓÃÓÚ°Ñ»ã±àÎÄ¼þÕûºÏ¡£
 Áù¡¢packfile.exe      ´ò°ü¹¤¾ß£¬×îºó°ÑËùÓÐµÄ×ÊÔ´ÒÔ¼°code.dde¡¢config.xmlµÈÕûºÏÎªepkÎÄ¼þ¡£ »¹ÓÐºÜ¶àÆäËü¹¦ÄÜ£¬¿ÉÒÔÂýÂýÃþË÷Ò»ÏÂ¡£
 Æß¡¢newfontbuild.exe  ×Ö¿âÉú³É¹¤¾ß£¬ÓÃÓÚÉú³É×Ö¿âÎÄ¼þ¡£
+°Ë¡¢hfs.exe           ÍøÂçÎÄ¼þ·þÎñÆ÷£¬ÓÃÓÚepkÎÄ¼þµÄµ÷ÊÔ
 
 ÉÏÃæµÄÄÚÈÝÈçºÎ¿´²»¹ýÀ´£¬ÑÛ»¨ÄÔÂÒ£¬Ò»°ãÀ´Ëµ grey Ìá¹©ÁËÒ»¼ü×Ô¶¯»¯Åú´¦Àí¹¤¾ß ¡°build.bat¡± À´´¦ÀíÄãµÄÔ´´úÂë¡£
 ÍÆ¼öÄãÊ¹ÓÃ¡°build.bat¡± À´½øÐÐÄãµÄÓ¦ÓÃµÄ±àÒë¡£
