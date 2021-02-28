@@ -4,7 +4,7 @@
 
 三、把windows版的资源直接打包进exe，不像现在一样散放。
 
-四、处理象棋APP，赢棋后的messagebox无法关闭的问题。
+四、处理象棋APP，赢棋后的messagebox无法关闭的问题。(OK)
 
 五、处理魔方APP，在H5下面无法渲染的问题，可能是vertexbuffer的问题，也不确定。
 
