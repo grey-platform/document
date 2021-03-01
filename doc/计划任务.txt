@@ -9,3 +9,5 @@
 五、处理魔方APP，在H5下面无法渲染的问题，可能是vertexbuffer的问题，也不确定。
 
 六、处理听歌APP，在IPAD H5模式下无法播放的问题。
+
+七、android Input GBK编码问题处理。
