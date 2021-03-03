@@ -1,6 +1,6 @@
-一、处理基本UI，把窗口header部分增加高度。以便于在android IOS版本上面的拖动。增加Windows控件的种类。并修改相关的APP。
+一、处理基本UI，把窗口header部分增加高度。以便于在android IOS版本上面的拖动。增加Windows控件的种类。并修改相关的APP。(OK)
 
-二、字体处理存在BUG，见多多诗词APP，在一定字符量的情况下，会混乱。
+二、字体处理存在BUG，见多多诗词APP，在一定字符量的情况下，会混乱。(OK)
 
 三、把windows版的资源直接打包进exe，不像现在一样散放。
 
